@@ -5,3 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=U2Clozer&label=Profile%20views&color=fe428e&style=for-the-badge" alt="profile views" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/downloads/U2Clozer/FumoClient/total?color=fe428e&label=Fumo%20Client%20Downloads&style=for-the-badge" alt="Client Downloads" /> </p>
+
+<!--
+rum test
+-->
